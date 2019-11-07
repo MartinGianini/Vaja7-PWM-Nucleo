@@ -21,3 +21,5 @@ a)sConfigOC.Pulse = 25;
 Delovanje:
 V CubeMX-u nastavljeni parametri, ter koda na osclioskopu prikaže nespremenljiv štirioglat sinus pri 1Mhz, po navodilih do nal. 4 pri 50% pulzu.
 Po navodilih iz nal. 5 je pulz 25% in se širi za 10%. Ko pulz preseže 90%, se skrči nazaj na 10% in ponovi cikel.
+
+Pri pisanju kode mi je nekako uspelo zapisati kodo v User Code Begin 3 izven zanke.
